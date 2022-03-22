@@ -1,0 +1,30 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+background-color:cadetblue;
+}
+
+canvas{
+    border-radius: 25px;
+    border: 10px dotted purple;
+}
+
+#d{
+    width: 100%;
+    padding: 30;
+    font-size: 30px;
+}
+
+#r{
+    margin-bottom: 800px !important;
+}
